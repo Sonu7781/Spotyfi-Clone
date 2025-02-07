@@ -1,1 +1,1 @@
-# The clone of spotyfi
+# The Clone of Spotyfi
